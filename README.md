@@ -1,5 +1,5 @@
 # ###########################################################
-# PLEASE NOTE:  DOW Demo YAML File located in Root Directory
+# PLEASE NOTE:  DEMO APP ONLY
 # ###########################################################
 
 # vue-hn-clone
